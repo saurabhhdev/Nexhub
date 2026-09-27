@@ -16,4 +16,4 @@ npm run build
 npm run preview
 ```
 
-The app is published to GitHub Pages at <https://saurabhhdev.github.io/github-explorer/> by the workflow in `.github/workflows/deploy.yml`.
+The app is published to GitHub Pages at <https://saurabhhdev.github.io/Nexhub/> by the workflow in `.github/workflows/deploy.yml`.
