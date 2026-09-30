@@ -1,6 +1,6 @@
 # Nexhub
 
-Nexhub is a GitHub profile explorer for discovering developers, browsing repositories, and comparing public profile stats. It uses GitHub's public REST API and stores favourites and recent searches in your browser.
+Nexhub is a GitHub profile explorer for discovering developers, browsing repositories, and comparing public profile stats. It uses GitHub's public REST API and stores favourites and recent searches in your browser..
 
 **Live app:** <https://saurabhhdev.github.io/Nexhub/>
 
